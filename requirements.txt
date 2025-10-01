@@ -1,0 +1,5 @@
+asgiref==3.9.2
+Django==5.2.7
+pillow==11.3.0
+qrcode==8.2
+sqlparse==0.5.3
